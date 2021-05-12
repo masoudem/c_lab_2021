@@ -1,3 +1,12 @@
+/*
+* Project name: calculator
+--------------------------------------------
+    ID:
+    Name:
+    Mail:
+--------------------------------------------
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
